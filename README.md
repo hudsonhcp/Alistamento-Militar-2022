@@ -1,5 +1,6 @@
 > ## Projeto: Técnicas de Programação I
 Professores: Alex Lima & Camila Assis
+
 Turma: Projeto Vem Ser Tech 2024 - Turma 1101
 
 #### Descrição do Projeto
@@ -35,6 +36,9 @@ Bibliotecas Python: pandas, matplotlib. Vide requirements.txt
 
 #### Como Executar o Projeto
 Clone o repositório para o seu ambiente local.
+
 Instale as dependências listadas no arquivo requirements.txt usando pip install -r requirements.txt.
+
 Execute os notebooks na ordem.
+
 Certifique-se de que os caminhos para os conjuntos de dados estão configurados corretamente nos notebooks.

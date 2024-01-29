@@ -1,6 +1,13 @@
 > ## Projeto: Técnicas de Programação I
 Professores: Alex Lima & Camila Assis
 
+Alunos:
+-  Alan Alves Rigolon (https://github.com/alanrigolon)
+-  Hudson Cordeiro Pinto (https://github.com/hudsonhcp);
+-  Jhonatas Santos Nascimento (https://github.com/JhonGb26);
+-  Juliana Gabriela dos Santos (https://github.com/jgsjuliana);
+-  Maycon Lima (https://github.com/Maykitu).
+
 Turma: Projeto Vem Ser Tech 2024 - Turma 1101
 
 #### Descrição do Projeto
